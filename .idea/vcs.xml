@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../base_derive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../diesel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sqlite_infer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sqlite_sql_infer" vcs="Git" />
+  </component>
+</project>
