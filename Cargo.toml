@@ -18,4 +18,4 @@ r2d2-diesel = { git = "https://github.com/diesel-rs/r2d2-diesel" }
 "diesel:0.16.0" = { path = "../diesel/diesel" , features = ["sqlite"] }
 "diesel_infer_schema:0.16.0" = { path = "../diesel/diesel_infer_schema" , features = ["sqlite"] }
 "diesel_codegen: 0.16.0" = { path = "../diesel/diesel_codegen" , features = ["sqlite"] }
-"libsqlite3-sys:0.8.1" = { git = "https://github.com/jgallagher/rusqlite", features = ["bundled"] }
+"libsqlite3-sys:0.8.1" = { path = "../rusqlite/libsqlite3-sys", features = ["sqlcipher"] }
